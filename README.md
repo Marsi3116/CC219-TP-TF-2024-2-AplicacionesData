@@ -45,4 +45,4 @@ El uso continuo de técnicas de NLP y datasets amplios como MS MARCO asegura que
 ---
 
 ## Licencia
-Este proyecto está protegido bajo la licencia [MIT](https://opensource.org/licenses/MIT). Puedes usar, modificar y distribuir este software bajo los términos de la licencia MIT.
+Este proyecto está protegido bajo la licencia [MIT](https://opensource.org/licenses/MIT).
